@@ -1,4 +1,6 @@
-# Supply Chain Analysis
+<p align="center">
+  <img src="images/banner.png" alt="Supply Chain Analytics Banner">
+</p>
 
 ## Project Overview
 
